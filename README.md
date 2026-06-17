@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá, eu sou Rodrigo Andrade 👋
 
-<!--
-**devrodrigoandrade/devrodrigoandrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software
 
-Here are some ideas to get you started:
+💻 Atualmente estudando:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Java
+* JavaScript
+* Python
+* Banco de Dados
+* Desenvolvimento de Software
+
+🚀 Objetivos:
+
+* Construir projetos práticos
+* Aprimorar minhas habilidades de programação
+* Conquistar uma oportunidade na área de tecnologia
+
+📚 Projetos em desenvolvimento:
+
+* Sistema de Cadastro de Clientes
+* Controle de Estoque
+* API REST com Java
+
+📍 Cabo Frio, RJ - Brasil
+
+## Conecte-se comigo
+
+* LinkedIn: (adicione seu link aqui)
