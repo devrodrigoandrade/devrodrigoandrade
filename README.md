@@ -26,4 +26,4 @@
 
 ## Conecte-se comigo
 
-* LinkedIn: (adicione seu link aqui)
+* LinkedIn: (https://www.linkedin.com/in/rodrigoandrade-dev)
