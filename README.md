@@ -24,6 +24,12 @@ Desenvolvedor em formação focado em construir uma base sólida em **Engenharia
 
 ---
 
+## 🔥 Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=devrodrigoandrade&theme=tokyonight)
+
+---
+
 ## 📌 Projeto em destaque
 
 ### 📚 Sistema de Biblioteca
