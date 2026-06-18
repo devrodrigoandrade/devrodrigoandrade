@@ -1,41 +1,58 @@
 # 👋 Olá, eu sou Rodrigo Andrade
 
-Sou desenvolvedor em formação e entusiasta de tecnologia, com foco em desenvolvimento de software, automação e soluções práticas para problemas reais.
+Desenvolvedor em formação, focado em construir base sólida em engenharia de software através de projetos práticos.
 
-Atualmente, venho evoluindo minhas habilidades com projetos práticos em Java e explorando boas práticas de versionamento, arquitetura e organização de código.
+Transformo aprendizado em código — e código em evolução constante.
 
 ---
 
 ## 🚀 Sobre mim
 
-- 💻 Foco em desenvolvimento back-end (Java)
-- 📚 Em constante aprendizado em Engenharia de Software
-- 🔧 Gosto de transformar ideias em sistemas funcionais
-- 🌱 Evoluindo diariamente através de projetos práticos
-- ✝️ Também atuo como pastor e escrevo sobre fé e propósito
+- 💻 Foco em desenvolvimento back-end com Java
+- 📚 Estudando Engenharia de Software na prática
+- 🔧 Construo projetos para aprender e evoluir constantemente
+- 🌱 Sempre em busca de melhorar lógica, estrutura e boas práticas
+- ✝️ Pastor e escritor, com foco em propósito e impacto
 
 ---
 
-## 🧠 Tecnologias que estou usando
+## 🧠 Tecnologias e ferramentas
 
 - Java
 - Git & GitHub
+- Lógica de Programação
 - Estruturação de projetos
-- Lógica de programação
 
 ---
 
-## 📌 Projetos em destaque
+## 📌 Projeto em destaque
 
 ### 📚 Sistema de Biblioteca
-Sistema simples de gerenciamento de biblioteca com funcionalidades de cadastro, controle e organização de livros.
+Sistema simples desenvolvido em Java para praticar lógica, estruturação e organização de código.
 
-🔗 Repositório: : (https://github.com/devrodrigoandrade/SistemaBiblioteca)
+✔ Cadastro de livros  
+✔ Organização de acervo  
+✔ Estrutura básica de sistema  
+✔ Versionamento com Git  
+
+🔗 Repositório: : https://github.com/devrodrigoandrade/SistemaBiblioteca?utm_source=chatgpt.com
 
 ---
 
-## 📈 Em evolução constante
+## 📈 Filosofia de aprendizado
 
-Buscando crescer como desenvolvedor e construir soluções que unam propósito, organização e impacto real.
+Não é sobre ser rápido.  
+É sobre ser consistente.
+
+Cada projeto é um degrau na construção de algo maior.
+
+---
+
+## 📫 Contato
+
+Se quiser trocar ideia sobre tecnologia, projetos ou aprendizado:
+
+- GitHub: github.com/devrodrigoandrade
+- LinkedIn: (coloca seu link aqui depois do post)
 
 ---
