@@ -1,4 +1,4 @@
-![Banner](https://github.com/devrodrigoandrade/devrodrigoandrade/blob/main/Rodrigo%20andrade.png)
+![Banner](https://SEU-LINK-DO-BANNER-AQUI)
 
 # 👋 Olá, eu sou Rodrigo Andrade
 
@@ -8,11 +8,11 @@ Desenvolvedor em formação focado em construir uma base sólida em **Engenharia
 
 ## 🚀 Sobre mim
 
-- 💻 Foco em desenvolvimento back-end com Java
-- 📚 Estudando Engenharia de Software na prática
-- 🔧 Construo projetos para evoluir minhas habilidades constantemente
-- 🌱 Aprendizado contínuo através de projetos reais
-- ✝️ Pastor e escritor, com foco em propósito e impacto
+- 💻 Foco em desenvolvimento back-end com Java  
+- 📚 Estudando Engenharia de Software na prática  
+- 🔧 Construo projetos para evoluir minhas habilidades constantemente  
+- 🌱 Aprendizado contínuo através de projetos reais  
+- ✝️ Pastor e escritor, com foco em propósito e impacto  
 
 ---
 
@@ -24,33 +24,53 @@ Desenvolvedor em formação focado em construir uma base sólida em **Engenharia
 
 ---
 
-## 🔥 Streak
+## 📊 GitHub Stats
+
+![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=devrodrigoandrade&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Streak de Atividade
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=devrodrigoandrade&theme=tokyonight)
 
 ---
 
-## 📌 Projeto em destaque
+## 📌 Projetos em destaque
 
-### 📚 Sistema de Biblioteca
+### 📚 Sistema de Biblioteca (Java)
 
-Sistema desenvolvido em Java para praticar lógica, estruturação e organização de código.
+Projeto desenvolvido para praticar lógica, estruturação e versionamento com Git.
 
-✔ Cadastro de livros  
-✔ Organização de acervo  
-✔ Estrutura de sistema em console  
-✔ Versionamento com Git e GitHub  
+🧠 Foco em:
+- Lógica de programação
+- Estruturação de código
+- Sistema em console
+- Git e GitHub
 
 🔗 Repositório: https://github.com/devrodrigoandrade/SistemaBiblioteca
 
 ---
 
-## 📈 Filosofia
+## 🧱 O que estou construindo
+
+Atualmente estou focado em:
+
+- 📦 Projetos práticos em Java  
+- 🧠 Evolução em lógica de programação  
+- 🔧 Estruturação de sistemas reais  
+- 📈 Construção de portfólio sólido  
+
+🎯 Objetivo: me tornar um desenvolvedor back-end pronto para o mercado.
+
+---
+
+## 📈 Filosofia de aprendizado
 
 > Não é sobre velocidade.  
 > É sobre consistência.
 
-Cada projeto é um passo real na construção de algo maior.
+Cada projeto é um degrau na construção de algo maior.
 
 ---
 
