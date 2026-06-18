@@ -53,6 +53,5 @@ Cada projeto é um degrau na construção de algo maior.
 Se quiser trocar ideia sobre tecnologia, projetos ou aprendizado:
 
 - GitHub: github.com/devrodrigoandrade
-- LinkedIn: (coloca seu link aqui depois do post)
-
+- LinkedIn: linkedin.com/in/rodrigoandrade-dev
 ---
