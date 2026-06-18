@@ -32,7 +32,7 @@ Desenvolvedor em formação focado em construir uma base sólida em **Engenharia
 
 ## 🔥 Streak de Atividade
 
-![GitHub Streak](https://streak-stats.demolab.com?user=devrodrigoandrade&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devrodrigoandrade&theme=tokyonight)
 
 ---
 
