@@ -30,7 +30,7 @@ Atualmente, venho evoluindo minhas habilidades com projetos práticos em Java e 
 ### 📚 Sistema de Biblioteca
 Sistema simples de gerenciamento de biblioteca com funcionalidades de cadastro, controle e organização de livros.
 
-🔗 Repositório: :contentReference[oaicite:0]{index=0}
+🔗 Repositório: : (https://github.com/devrodrigoandrade/SistemaBiblioteca)
 
 ---
 
