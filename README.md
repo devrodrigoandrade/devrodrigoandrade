@@ -1,8 +1,6 @@
 # 👋 Olá, eu sou Rodrigo Andrade
 
-Desenvolvedor em formação, focado em construir base sólida em engenharia de software através de projetos práticos.
-
-Transformo aprendizado em código — e código em evolução constante.
+Desenvolvedor em formação focado em construir uma base sólida em **Engenharia de Software com Java**, através de projetos práticos e consistentes.
 
 ---
 
@@ -10,48 +8,45 @@ Transformo aprendizado em código — e código em evolução constante.
 
 - 💻 Foco em desenvolvimento back-end com Java
 - 📚 Estudando Engenharia de Software na prática
-- 🔧 Construo projetos para aprender e evoluir constantemente
-- 🌱 Sempre em busca de melhorar lógica, estrutura e boas práticas
+- 🔧 Construo projetos para evoluir minhas habilidades constantemente
+- 🌱 Aprendizado contínuo através de projetos reais
 - ✝️ Pastor e escritor, com foco em propósito e impacto
 
 ---
 
-## 🧠 Tecnologias e ferramentas
+## 🧠 Tecnologias
 
-- Java
-- Git & GitHub
-- Lógica de Programação
-- Estruturação de projetos
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
 
 ## 📌 Projeto em destaque
 
 ### 📚 Sistema de Biblioteca
-Sistema simples desenvolvido em Java para praticar lógica, estruturação e organização de código.
+
+Sistema desenvolvido em Java para praticar lógica, estruturação e organização de código.
 
 ✔ Cadastro de livros  
 ✔ Organização de acervo  
-✔ Estrutura básica de sistema  
-✔ Versionamento com Git  
+✔ Estrutura de sistema em console  
+✔ Versionamento com Git e GitHub  
 
-🔗 Repositório: : https://github.com/devrodrigoandrade/SistemaBiblioteca?utm_source=chatgpt.com
+🔗 Repositório: https://github.com/devrodrigoandrade/SistemaBiblioteca
 
 ---
 
-## 📈 Filosofia de aprendizado
+## 📈 Filosofia
 
-Não é sobre ser rápido.  
-É sobre ser consistente.
+> Não é sobre velocidade.  
+> É sobre consistência.
 
-Cada projeto é um degrau na construção de algo maior.
+Cada projeto é um passo real na construção de algo maior.
 
 ---
 
 ## 📫 Contato
 
-Se quiser trocar ideia sobre tecnologia, projetos ou aprendizado:
-
-- GitHub: github.com/devrodrigoandrade
-- LinkedIn: linkedin.com/in/rodrigoandrade-dev
----
+- GitHub: https://github.com/devrodrigoandrade  
+- LinkedIn: https://linkedin.com/in/rodrigoandrade-dev
