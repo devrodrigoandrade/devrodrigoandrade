@@ -1,29 +1,41 @@
-# Olá, eu sou Rodrigo Andrade 👋
+# 👋 Olá, eu sou Rodrigo Andrade
 
-🎓 Estudante de Engenharia de Software
+Sou desenvolvedor em formação e entusiasta de tecnologia, com foco em desenvolvimento de software, automação e soluções práticas para problemas reais.
 
-💻 Atualmente estudando:
+Atualmente, venho evoluindo minhas habilidades com projetos práticos em Java e explorando boas práticas de versionamento, arquitetura e organização de código.
 
-* Java
-* JavaScript
-* Python
-* Banco de Dados
-* Desenvolvimento de Software
+---
 
-🚀 Objetivos:
+## 🚀 Sobre mim
 
-* Construir projetos práticos
-* Aprimorar minhas habilidades de programação
-* Conquistar uma oportunidade na área de tecnologia
+- 💻 Foco em desenvolvimento back-end (Java)
+- 📚 Em constante aprendizado em Engenharia de Software
+- 🔧 Gosto de transformar ideias em sistemas funcionais
+- 🌱 Evoluindo diariamente através de projetos práticos
+- ✝️ Também atuo como pastor e escrevo sobre fé e propósito
 
-📚 Projetos em desenvolvimento:
+---
 
-* Sistema de Cadastro de Clientes
-* Controle de Estoque
-* API REST com Java
+## 🧠 Tecnologias que estou usando
 
-📍 Cabo Frio, RJ - Brasil
+- Java
+- Git & GitHub
+- Estruturação de projetos
+- Lógica de programação
 
-## Conecte-se comigo
+---
 
-* LinkedIn: (https://www.linkedin.com/in/rodrigoandrade-dev)
+## 📌 Projetos em destaque
+
+### 📚 Sistema de Biblioteca
+Sistema simples de gerenciamento de biblioteca com funcionalidades de cadastro, controle e organização de livros.
+
+🔗 Repositório: :contentReference[oaicite:0]{index=0}
+
+---
+
+## 📈 Em evolução constante
+
+Buscando crescer como desenvolvedor e construir soluções que unam propósito, organização e impacto real.
+
+---
