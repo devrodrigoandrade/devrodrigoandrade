@@ -2,79 +2,101 @@
 
 # 👋 Olá, eu sou Rodrigo Andrade
 
-Desenvolvedor em formação focado em construir uma base sólida em **Engenharia de Software com Java**, através de projetos práticos e consistentes.
+🎓 Estudante de Engenharia de Software | ☕ Desenvolvedor Java em formação | 🚀 Em busca de oportunidades de estágio e desenvolvimento júnior
+
+Sou apaixonado por tecnologia, resolução de problemas e construção de soluções através do software. Atualmente concentro meus estudos e projetos em desenvolvimento back-end com Java, aplicando conceitos de Programação Orientada a Objetos, arquitetura de software, persistência de dados e boas práticas de desenvolvimento.
 
 ---
 
 ## 🚀 Sobre mim
 
-- 💻 Foco em desenvolvimento back-end com Java  
-- 📚 Estudando Engenharia de Software na prática  
-- 🔧 Construo projetos para evoluir minhas habilidades constantemente  
-- 🌱 Aprendizado contínuo através de projetos reais  
-- ✝️ Pastor e escritor, com foco em propósito e impacto  
+* 💻 Foco em desenvolvimento Back-end com Java
+* 📚 Estudante de Engenharia de Software
+* 🔧 Desenvolvimento de projetos práticos para consolidação técnica
+* 🌱 Aprendizado contínuo em tecnologias e boas práticas de mercado
+* ✝️ Pastor e escritor, movido por propósito, disciplina e impacto positivo
 
 ---
 
-## 🧠 Tecnologias
+## 🛠️ Tecnologias e Ferramentas
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+### Linguagens
 
----
+* Java
 
-## 📊 GitHub Stats
+### Ferramentas
 
-![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=devrodrigoandrade&show_icons=true&theme=tokyonight)
+* Git
+* GitHub
+* IntelliJ IDEA
 
----
+### Conceitos
 
-## 📈 Atividade
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devrodrigoandrade&theme=tokyo-night)
-
----
-
-## 📌 Projetos em destaque
-
-### 📚 Sistema de Biblioteca (Java)
-
-Projeto desenvolvido para praticar lógica, estruturação e versionamento com Git.
-
-🧠 Foco em:
-- Lógica de programação
-- Estruturação de código
-- Sistema em console
-- Git e GitHub
-
-🔗 Repositório: https://github.com/devrodrigoandrade/SistemaBiblioteca
+* Programação Orientada a Objetos (POO)
+* Estrutura de Dados
+* Persistência de Dados
+* Arquitetura em Camadas
+* Controle de Versionamento
 
 ---
 
-## 🧱 O que estou construindo
+## 📌 Projetos em Destaque
 
-Atualmente estou focado em:
+### 📚 Sistema Biblioteca
 
-- 📦 Projetos práticos em Java  
-- 🧠 Evolução em lógica de programação  
-- 🔧 Estruturação de sistemas reais  
-- 📈 Construção de portfólio sólido  
+Sistema de gerenciamento de biblioteca desenvolvido em Java com arquitetura em camadas, persistência de dados, autenticação de usuários e controle de empréstimos.
 
-🎯 Objetivo: me tornar um desenvolvedor back-end pronto para o mercado.
+🔗 Repositório:
+https://github.com/devrodrigoandrade/SistemaBiblioteca
 
 ---
 
-## 📈 Filosofia de aprendizado
+### 📦 Controle de Estoque
 
-> Não é sobre velocidade.  
-> É sobre consistência.
+Sistema para gerenciamento de produtos e controle de estoque utilizando Java.
 
-Cada projeto é um degrau na construção de algo maior.
+🔗 Repositório:
+https://github.com/devrodrigoandrade/ControleEstoque
+
+---
+
+### 👥 Sistema de Cadastro de Clientes
+
+Projeto desenvolvido para gerenciamento e cadastro de clientes utilizando conceitos fundamentais de POO.
+
+🔗 Repositório:
+https://github.com/devrodrigoandrade/SistemaCadastroCliente
+
+---
+
+### 🌐 Biblioteca API
+
+API desenvolvida em Java para gerenciamento de recursos relacionados a bibliotecas.
+
+🔗 Repositório:
+https://github.com/devrodrigoandrade/biblioteca-api
+
+---
+
+## 🎯 Objetivo Profissional
+
+Busco uma oportunidade de estágio ou posição júnior em desenvolvimento de software para aplicar conhecimentos em Java, colaborar em projetos reais e evoluir profissionalmente dentro da área de tecnologia.
+
+---
+
+## 📈 Filosofia de Aprendizado
+
+> Não é sobre velocidade. É sobre consistência.
+
+Acredito que a evolução acontece através da prática contínua, construção de projetos e aprendizado constante.
 
 ---
 
 ## 📫 Contato
 
-- GitHub: https://github.com/devrodrigoandrade  
-- LinkedIn: https://linkedin.com/in/rodrigoandrade-dev
+🔗 GitHub:
+https://github.com/devrodrigoandrade
+
+🔗 LinkedIn:
+https://linkedin.com/in/rodrigoandrade-dev
+
